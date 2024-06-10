@@ -1,0 +1,25 @@
+.card {
+    margin: 0 15px; /* Add left and right margins */
+  }
+  
+  .card-body {
+    padding: 20px; /* Add padding inside the card body */
+  }
+  
+  .img-fluid {
+    border-radius: 8px 0 0 8px; /* Ensure the image has rounded corners on the left side */
+  }
+  
+  .card-title {
+    font-size: 1.25rem; /* Adjust font size for the card title */
+    margin-bottom: 15px; /* Add margin below the card title */
+  }
+  
+  .card-text {
+    font-size: 1rem; /* Adjust font size for the card text */
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075); /* Add subtle shadow to the card */
+  }
+  
